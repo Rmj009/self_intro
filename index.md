@@ -127,7 +127,7 @@ long-term habit.
 
 6. 如果參與這個計畫，會怎麼安排學習時間？
 > 使用Gantt chart 規劃spring 進度. 如[圖](https://raw.githubusercontent.com/Rmj009/koukira/gh-pages/neuip.png)所示計畫分紅綠藍三個部分, 目前個人基礎能力所及的部分為深色區塊
-> ![my screenshot](/neuip.png)
+> ![Myschedule](/images/neuip.png)
 
 
 7. 如果參與這個計畫，預期會碰到什麼困難？你打算怎麼解決它？
