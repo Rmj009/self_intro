@@ -14,7 +14,7 @@
 
 #### ● AI project:
 
-1. Thesis project: RNN-Time-series-Anomaly-Detection [anomaly detection](https://docs.google.com/presentation/d/1NBqlpngERthgLvFd9tJv59BoM_b5p2VH/edit?usp=sharing&ouid=103768638663570242533&rtpof=true&sd=true)
+1. Graduate thesis : Anomaly Detection and Diagnosis of the Industrial Robot Manipulators [anomaly detection](https://docs.google.com/presentation/d/1NBqlpngERthgLvFd9tJv59BoM_b5p2VH/edit?usp=sharing&ouid=103768638663570242533&rtpof=true&sd=true)
 2. 台灣人工智慧學校 aiacademy : CV in Fashion [private] [2021/4~2021/8] https://drive.google.com/file/d/1PZSZ4Jj3dvPRoEp4Q__9rUw9OmrBYKRW/view?usp=sharing
 
 #### ● Project assists in Graduate:
@@ -106,7 +106,8 @@ long-term habit.
 ---
 # NUEiP培訓營答題:
 
-利用 GitHub Pages 服務上線 ，在網頁中提供以下問題的回應：
+- 以下問題的回應：
+
 1. 兩百字內的個人簡介:
 > 我是自介
 
