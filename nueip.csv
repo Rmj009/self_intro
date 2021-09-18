@@ -1,10 +1,10 @@
 ﻿Task,start,end,Department,Completion
-1. Git 使用,4-Oct-21,5-Oct-21,Step1,100
-2. Golang 開發,4-Oct-21,20-Oct-21,Step1,60
-3. 初階演算法,6-Oct-21,21-Oct-21,Step1,30
-4. 背景知識：Mutual Exclusion、Process & Thread & Goroutine,7-Oct-21,22-Oct-21,Step1,10
-1. HTTP Server + MySQL 訓練,22-Oct-21,29-Oct-21,Step2,60
-2. 背景知識：HTTP 通訊協定、資料庫正規化,29-Oct-21,5-Nov-21,Step2,30
-3. Cookie 觀念與實作,5-Nov-21,12-Nov-21,Step2,10
-1. GCP 雲端服務：compute engine、Docker 應用,15-Nov-21,24-Nov-21,Step3,20
-2. 專案實作訓練,24-Nov-21,3-Dec-21,Step3,0
+1. usage of Git,4-Oct-21,5-Oct-21,Step1,100
+2. Golang Dev,4-Oct-21,20-Oct-21,Step1,60
+3. Basic algorithm,6-Oct-21,21-Oct-21,Step1,30
+4. Mutual Exclusion Process & Thread & Goroutine,7-Oct-21,22-Oct-21,Step1,10
+1. HTTP Server + MySQL,22-Oct-21,29-Oct-21,Step2,60
+"2. HTTP protocol, Database Normalization",29-Oct-21,5-Nov-21,Step2,30
+3. Cookie concept and implementation,5-Nov-21,12-Nov-21,Step2,10
+"1. GCP compute engine, Docker",15-Nov-21,24-Nov-21,Step3,20
+2. Project in a nutshell,24-Nov-21,3-Dec-21,Step3,0
