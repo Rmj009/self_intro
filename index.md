@@ -1,6 +1,6 @@
 # [ 劉宏毅 Hong Yi Liu]
 
-### CONTACT info:
+::: CONTACT info:
 
 - Tel: 0972047688
 - E-mail: quanta10811053@gmail.com
@@ -9,6 +9,7 @@
 - [GitHub] [http://rmj009.github.com](http://rmj009.github.com)
 - [Website] [https://rmj009.github.io/koukira/](http://rmj009.github.com/koukira)
   
+:::
 
 ### SKILLS & PROFICIENT TOOLS:
 
