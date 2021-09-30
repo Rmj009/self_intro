@@ -7,7 +7,7 @@
 - [LinkedIn] [http://www.linkedin.com/in/hong-yi-liu-](http://www.linkedin.com/in/hong-yi-liu-)
     309510143/
 - [GitHub] [http://rmj009.github.com](http://rmj009.github.com)
-- [Website] [https://rmj009.github.io/koukira/](http://rmj009.github.com/koukira)
+- [Website] [https://rmj009.github.io/koukira/](http://rmj009.github.io/koukira)
   
 :::
 
@@ -104,37 +104,4 @@ In retrospect, these experiences have been a great teacher. I have acquired
 patience, consistent effort, planning, perseverance and observation due to my
 long-term habit.
 
----
-# NUEiP培訓營答題:
-
-- 以下問題的回應：
-
-1. 兩百字內的個人簡介:
-> 我是Paul liu 劉宏毅大學畢業於中正經濟, 研所自台大工業工程畢業後於廣達電腦擔任進料品管工程師, 負責管理作業員處理進料檢驗issues, 並偕同RD/產銷/物料/產線/倉庫等部門解決原材料品質不良問題. 因疫情與個人職涯規劃因素參與T大使計畫到達易製造負責製造生產系統MES後端系統建置, 學習實作內容如上述簡介, 立志成為後端/全端工程師.
-
-
-2. 對於人易科技的瞭解
-> 第一次從臉書後端社端知道貴公司（人易科技）, 是專注在人資系統開發服務上, 將差勤、排班、薪資、績效考核等功能，做一站式雲端行政整合管理，一次解決管理者與人資的所有系統落地前的痛點pain
-
-3. 為什麼想成為工程師（請以自我期許帶入：前端、後端、或全端工程師）
-> 以轉職為首要考量, 因過往公司人資都看畢業生科系先入為主, 進而限制了畢業新鮮人的求職道路. 以工業工程來說, 畢業後無疑得進入工廠端工作. 雖掛名工程師, 但實質工作上主要解決人的問題, 少有狀況是得用工程科學的角度, 剖析這個問題的痛點, 提出可行的解決方案, 有條理的實驗可行方案, 並解決根本問題. 就前述我理解上, 後端工程師職責上幾乎等同於全端工程師, 因相較後端工程師, 全端工程師能夠掌握全局相, 職涯發展較為廣況
-
-
-4. 為了成為工程師，曾經做過什麼努力？
-> 我在2021年初決心從廣達離職, 參與T大使活動, 有幸加入新創公司(達易智造公司), 期間學習如何寫golang API, python API 並使用postman, swagger做測試, 並建置SPC統計製成服務. 除此之外, 2021四月到八月期間參與人工智慧學校, 認識同好共同製作以AI模型的專案: AI造型師. 並在期間擔任第九期班班代
-
-5. 對於工程師的職業想像是什麼？
-> 工程師之所以為工程師, 是以工程手法為服務解套, 不僅達到市場需求預期, 同時與需求使用者共同進步. 在後端訊息流與前端介面展示都能讓使用者心服口服. 時間 掌握度高彈性、高度自由性等.
-
-6. 如果參與這個計畫，會怎麼安排學習時間？
-> 使用Gantt chart 規劃進度. 如[圖](https://raw.githubusercontent.com/Rmj009/koukira/gh-pages/neuip.png)所示計畫分紅綠藍三個部分, 目前個人基礎能力所及的部分為深色區塊
-> ![Myschedule](/images/neuip.png)
-
-
-7. 如果參與這個計畫，預期會碰到什麼困難？你打算怎麼解決它？
-> 預期資料庫正規化、使用者授權/驗證，比較容易碰上瓶頸。在問高手朋友助教前做足好 Google 找的相關方法, 摸石頭過河
-
-
-8. 想要對我們說的事情？
-> 人資系統的排程跟其他的排程系統有什麼不同, 除此之外, 建製人資系統最需要使用的核心概念是什麼?
 
