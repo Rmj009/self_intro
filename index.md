@@ -43,13 +43,17 @@ Department of Cooperative Economics
 
 ### WORK EXPERIENCE
 
-* 1. IQC engineer at Quanta Computer Inc. (QC1/QC2) [2019/11~2021/1]
+* 1. FW&SW engineer at ASECL group
+    i. Develop and operate miscellaneous IC functional testing
+    ii. Establish UaRt tunnel to connect Instruments through SCIP
+    iii. Collaborate with IC design house and provide solution
+* 2. IQC engineer at Quanta Computer Inc. (QC1/QC2) [2019/11~2021/1]
     a. Handling material incoming and production line raw material issues in steady state.
     b. Define the inspection items rules for NPI material during EVT, DVT, PVT peroid and
        guide the operator to inspect the material.
     c. Continually take quality improvement with multiple suppliers.
     d. Coordinate and track BOM with cross-functional team under various projects.
-* 2. Joint commission of Taiwan as an Assistant in Healthcare Quality Improvement
+* 3. Joint commission of Taiwan as an Assistant in Healthcare Quality Improvement
     Campaign [2017/08]
 
 * 3. SuFon industrial Co., LTD (賜宏塑膠工業) Production Assistant [ 2015/ 01 ~ 2016/03 ]
