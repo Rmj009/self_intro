@@ -4,8 +4,7 @@
 
 - Tel: 0972047688
 - E-mail: quanta10811053@gmail.com
-- [LinkedIn] [http://www.linkedin.com/in/hong-yi-liu-](http://www.linkedin.com/in/hong-yi-liu-)
-    309510143/
+- [LinkedIn] [http://www.linkedin.com/in/hong-yi-liu-](http://www.linkedin.com/in/hong-yi-liu-309510143/)
 - [GitHub] [http://rmj009.github.com](http://rmj009.github.com)
 - [Website] [https://rmj009.github.io/koukira/](http://rmj009.github.io/koukira)
   
