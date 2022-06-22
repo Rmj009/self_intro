@@ -43,8 +43,8 @@ Department of Cooperative Economics
 ### WORK EXPERIENCE
 
 * 1. FW&SW engineer at ASECL group
-    i. Develop and operate miscellaneous IC functional testing
-    ii. Establish UaRt tunnel to connect Instruments through SCIP
+    i. Develop automatic chip test control flow in shopfloor.
+    ii. Hands-on MCU/PCB welding/mounting(焊線接線) while establish for engineering production
     iii. Collaborate with IC design house and provide solution
 * 2. IQC engineer at Quanta Computer Inc. (QC1/QC2) [2019/11~2021/1]
     a. Handling material incoming and production line raw material issues in steady state.
@@ -54,8 +54,6 @@ Department of Cooperative Economics
     d. Coordinate and track BOM with cross-functional team under various projects.
 * 3. Joint commission of Taiwan as an Assistant in Healthcare Quality Improvement
     Campaign [2017/08]
-
-* 3. SuFon industrial Co., LTD (賜宏塑膠工業) Production Assistant [ 2015/ 01 ~ 2016/03 ]
 
 ### AREAS OF EXPERTISE：
 
