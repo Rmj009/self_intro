@@ -41,25 +41,28 @@ Department of Cooperative Economics
 2010 – 2012
 
 ### WORK EXPERIENCE
-
-* 1. FW&SW engineer at ASECL group
+* 1. NPI engineer at WNC
+     - specializes in managing test engineering operations for specific OSAT site. (Qualcomm, silicon labs, infineon) while performing data analysis
+* 2. FW&SW engineer at ASECL group
     i. Develop automatic chip test control flow in shopfloor.
     ii. Hands-on MCU/PCB welding/mounting(焊線接線) while establish for engineering production
     iii. Collaborate with IC design house and provide solution
-* 2. IQC engineer at Quanta Computer Inc. (QC1/QC2) [2019/11~2021/1]
+* 3. IQC engineer at Quanta Computer Inc. (QC1/QC2) [2019/11~2021/1]
     a. Handling material incoming and production line raw material issues in steady state.
     b. Define the inspection items rules for NPI material during EVT, DVT, PVT peroid and
        guide the operator to inspect the material.
     c. Continually take quality improvement with multiple suppliers.
     d. Coordinate and track BOM with cross-functional team under various projects.
-* 3. Joint commission of Taiwan as an Assistant in Healthcare Quality Improvement
+* 4. Joint commission of Taiwan as an Assistant in Healthcare Quality Improvement
     Campaign [2017/08]
 
 ### AREAS OF EXPERTISE：
 
 
-Quality control, Multivariate Statistical Process Control, PFMEA, RCA, anomaly
-detection of humanoid manipulators
+NPI enagement, 
+automatic product testing ,
+Multivariate Statistical Process Control, 
+PFMEA, RCA, anomaly detection of humanoid manipulators
 
 ### RESEARCH PROJECTS ACCOMPLISHMENTS:
 
